@@ -1,0 +1,7 @@
+pwd
+ls -l -a -F
+strace -c ps
+whoami
+free -h
+uptime -p
+cat Makefile

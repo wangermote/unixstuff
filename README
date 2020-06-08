@@ -1,0 +1,23 @@
+Standard development tools have been installed, including
+
+gcc
+python
+java 9
+make
+
+The source code for the 10th edition of Operating System Concepts is also provided
+in the directory 
+
+final-src-osc10e
+
+We also provide the zip file final-src-osc10e.zip
+
+We have also installed the BCC (BPF Compiler Collection) toolkit. This is
+located in 
+
+/usr/share/bcc/tools
+
+and the examples can be found in
+
+/usr/share/bcc/examples
+

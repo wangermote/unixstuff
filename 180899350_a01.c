@@ -66,14 +66,14 @@ int main(int argc, char *argv[])
 		}	
 		array[i] = "\0"; 
 	
-	//puts(mem);	
+ 	
+	for(int i=0; i<=7; i++) {
+		puts(array[i]); 	
 	
-
-
-
+	
+		
 	}
-	
-
+}
 
 
 	return 0;
